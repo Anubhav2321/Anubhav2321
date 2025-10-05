@@ -18,7 +18,6 @@
 - 🎨 Frontend: **HTML, CSS**
 - 🗄 Databases: **SQL, MongoDB**
 - ⚙ Frameworks: **Flask, React, Node.js**
-- 🌱 Currently exploring **Machine Learning & Cloud Technologies**
 
 ---
 ## 🛠 Skills
