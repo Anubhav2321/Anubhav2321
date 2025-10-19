@@ -3,11 +3,16 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 Studying **BCA** at Techno India University  
-- 💡 Passionate about **building full stack applications**  
-- 🧠 Learning **Flask**, **React**, and **Databases**  
-- 🌈 Focused on clean code & UI/UX design  
+
+## 🚀 About Me
+- 🎓 Currently pursuing *BCA at Techno India University*
+- 🎓 Student at *Techno India University, West Bengal*
+- 💻 Passionate *Full Stack Developer*
+- 🛠 Backend: *Python, Java*
+- 🎨 Frontend: *HTML, CSS*
+- 🗄 Databases: *SQL, MongoDB*
+- ⚙ Frameworks: *Flask, React, Node.js*
+
 
 ---
 
