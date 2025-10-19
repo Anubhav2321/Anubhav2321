@@ -12,9 +12,9 @@
 ---
 
 ### 🛠 Tech Stack
-| Frontend | Backend | Database | Tools |
-|-----------|----------|-----------|--------|
-| HTML, CSS, React | Python, Java, Node.js | SQL, MongoDB | Git, GitHub, VSCode |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,react,nodejs,flask,mongodb,git,github,vscode&perline=6" />
+</p>
 
 ---
 
