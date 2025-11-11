@@ -1,49 +1,66 @@
-<h1 align="center">Hi there 👋, I'm Anubhav Samanta</h1>
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7F7&center=true&vCenter=true&width=500&lines=Student+at+Techno+India+University;Full+Stack+Developer;Backend+%7C+Frontend+%7C+Database;Always+Learning+New+Things" alt="Typing SVG" />
-</h3>
+<!-- 🌟 GitHub Profile README by Anubhav Samanta -->
 
+<h1 align="center">Hi there 👋, I'm <span style="color:#00BFFF;">Anubhav Samanta</span></h1>
+<h3 align="center">💻 Full Stack Developer | 🧠 Tech Explorer | 🚀 Lifelong Learner</h3>
+
+---
+
+### ✨ About Me
+- 🎓 Pursuing **BCA at Techno India University**, West Bengal  
+- 💡 Learning **Object-Oriented Programming in Python** and mastering **Data Structures & Algorithms**  
+- 🔭 Exploring **Flask & React** for full-stack development  
+- 💻 Focused on **Backend (Python)**, **Frontend (HTML, CSS)**, and **Database (MySQL)**  
+- ⚡ Always curious about new technologies and problem-solving  
+
+---
+
+### 🧠 Tech Skills
+
+#### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### ⚙️ Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### 🧩 Frameworks
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+---
+
+### ⚙️ Tools & Environment
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+---
+
+### 📊 GitHub Overview
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anubhav2321&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anubhav2321&theme=tokyonight" height="160px"/>
 </p>
 
-
 ---
 
-
-## 🚀 About Me
-- 🎓 Currently pursuing *BCA at Techno India University*
-- 🎓 Student at *Techno India University, West Bengal*
-- 💻 Passionate *Full Stack Developer*
-- 🛠 Backend: *Python, Java*
-- 🎨 Frontend: *HTML, CSS*
-- 🗄 Databases: *SQL, MongoDB*
-- ⚙ Frameworks: *Flask, React, Node.js*
-
-
----
-
-### 🛠 Tech Stack
+### 🤝 Connect With Me
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,flask,sql ,git,github,vscode&perline=6" />
+  <a href="https://www.facebook.com/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
 
-### 📈 GitHub Overview
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnubhavSamanta&show_icons=true&theme=tokyonight" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AnubhavSamanta&theme=tokyonight" height="180em" />
-</p>
----
+### 🌟 Fun Fact
+> “Code is like art — it’s simple, elegant, and ever-evolving.” 🎨  
 
-### 🌐 Socials
-<p align="left">
-<a href="https://facebook.com/a.nu.bha.ba.550218" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/r.d.x___anubhav?igsh=MWxudDRiYWIwOGo3bA==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+⭐ *From [Anubhav Samanta](https://github.com/Anubhav2321)*    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/anubhav-samanta-187549379 " target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
