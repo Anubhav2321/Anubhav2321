@@ -4,6 +4,13 @@
 <h3 align="center">💻 Full Stack Developer | 🧠 Tech Explorer | 🚀 Lifelong Learner</h3>
 
 ---
+<p align="center">
+
+<img src="https://media.giphy.com/media/L7R1tvl9svkl@wpVYr/giphy gif" alt="Coding Glf" width="500" />
+
+</p>
+
+---
 
 ### ✨ About Me
 - 🎓 Pursuing **BCA at Techno India University**, West Bengal  
