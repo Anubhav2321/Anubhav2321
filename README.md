@@ -1,79 +1,58 @@
-<!-- 🌟 GitHub Profile README by Anubhav Samanta -->
+<h1 align="center">Hi 👋, I'm Anubhav</h1>
 
-<h1 align="center">Hi there 👋, I'm <span style="color:#00BFFF;">Anubhav Samanta</span></h1>
-<h3 align="center">💻 Full Stack Developer | 🧠 Tech Explorer | 🚀 Lifelong Learner</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7F7&center=true&vCenter=true&width=500&lines=Student+at+Techno+India+University;Full+Stack+Developer;Backend+%7C+Frontend+%7C+Database;Always+Learning+New+Things" alt="Typing SVG" />
+</h3>
 
----
 <p align="center">
-
-<img src="https://media.giphy.com/media/L7R1tvl9svkl@wpVYr/giphy gif" alt="Coding Glf" width="500" />
-
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" width="500" />
 </p>
 
 ---
 
-### ✨ About Me
-- 🎓 Pursuing **BCA at Techno India University**, West Bengal  
-- 💡 Learning **Object-Oriented Programming in Python** and mastering **Data Structures & Algorithms**  
-- 🔭 Exploring **Flask & React** for full-stack development  
-- 💻 Focused on **Backend (Python)**, **Frontend (HTML, CSS)**, and **Database (MySQL)**  
-- ⚡ Always curious about new technologies and problem-solving  
+## 🚀 About Me
+- 🎓 Currently pursuing *BCA at Techno India University*
+- 🎓 Student at *Techno India University, West Bengal*
+- 💻 Passionate *Full Stack Developer*
+- 🛠 Backend: *Python, Java*
+- 🎨 Frontend: *HTML, CSS*
+- 🗄 Databases: *SQL, MongoDB*
+- ⚙ Frameworks: *Flask, React, Node.js*
 
 ---
-
-### 🧠 Tech Skills
-
-#### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-#### ⚙️ Backend
+## 🛠 Skills
+### 💻 Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-#### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+### 🎨 Frontend
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### 🧩 Frameworks
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### 🗄 Databases
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ⚙ Frameworks
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
-
-### ⚙️ Tools & Environment
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
----
-
-### 📊 GitHub Overview
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anubhav2321&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anubhav2321&theme=tokyonight" height="160px"/>
-</p>
-
----
-
-### 🤝 Connect With Me
-<p align="center">
-  <a href="https://www.facebook.com/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
-
----
-
-### 🌟 Fun Fact
-> “Code is like art — it’s simple, elegant, and ever-evolving.” 🎨  
-
-⭐ *From [Anubhav Samanta](https://github.com/Anubhav2321)*    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+## 📫 Connect With Me
+<p align="left">
+<a href="https://facebook.com/a.nu.bha.ba.550218" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/r.d.x___anubhav?igsh=MWxudDRiYWIwOGo3bA==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/anubhav-samanta-187549379 " target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>  
 </p>
 
+---
 
 ---
 
