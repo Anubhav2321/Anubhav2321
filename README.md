@@ -38,6 +38,16 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
+
+---
+### 🐍 Snake Eating My Contributions  
+<!-- 🐍 Snake: dark/light aware -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rakesh20052022/Rakesh20052022/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rakesh20052022/Rakesh20052022/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Rakesh20052022/Rakesh20052022/output/github-snake.svg" />
+</picture>
+
 ---
 ## 📫 Connect With Me
 <p align="left">
