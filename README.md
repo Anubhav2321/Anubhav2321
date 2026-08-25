@@ -54,20 +54,16 @@
   </a>
 </p>
 
-## 📊 GitHub Statistics
+## 📈 GitHub Activity Graph
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Anubhav2321&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Anubhav Samanta GitHub Statistics"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhav2321&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Anubhav Samanta Top Languages"
-  />
+  <a href="https://github.com/Anubhav2321">
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Anubhav2321&bg_color=0D1117&color=58A6FF&line=00F5D4&point=FFFFFF&area=true&hide_border=true" 
+      width="100%"
+      alt="GitHub Activity Graph"
+    />
+  </a>
 </p>
 
 ---
