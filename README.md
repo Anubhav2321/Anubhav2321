@@ -54,18 +54,6 @@
   </a>
 </p>
 
-## 📈 GitHub Activity Graph
-
-<p align="center">
-  <a href="https://github.com/Anubhav2321">
-    <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Anubhav2321&bg_color=0D1117&color=58A6FF&line=00F5D4&point=FFFFFF&area=true&hide_border=true" 
-      width="100%"
-      alt="GitHub Activity Graph"
-    />
-  </a>
-</p>
-
 ---
 ### 🐍 Snake Eating My Contributions  
 <!-- 🐍 Snake: dark/light aware -->
